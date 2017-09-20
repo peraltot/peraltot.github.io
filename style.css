@@ -27,7 +27,7 @@ header {
   background: #d21034;
 }
 
-h1 {
+h1 p li{
   /* Box-model */
   padding: 20px 0;
 
